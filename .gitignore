@@ -1,0 +1,15 @@
+# Ignore virtual environment
+image-classification-env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large files
+data/
+datasets/
+*.dll
+*.pyd
